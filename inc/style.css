@@ -1,0 +1,74 @@
+
+/* http://www.fatcow.com/free-icons */
+
+body, html
+{
+	margin: 0;
+	padding: 0;
+	background: #fff;
+	font-family: "Arial", sans-serif;
+}
+
+#loginform
+{
+	margin-top: 200px;
+	width: 200px;	
+	margin-left : auto;
+	margin-right : auto;
+	border: 1px solid #464643;
+	padding: 30px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	background: #F5F5F5;
+	
+
+}
+
+#loginform img
+{
+
+}
+
+#loginform input
+{
+	margin-bottom:5px;
+	border: solid 1px #ccc;
+}
+
+#login_username
+{
+	padding-left: 3px;
+	height: 20px;
+	width: 175px;
+	/*padding-left: 20px;
+	background:#ffffff url('/gfx/user.png') no-repeat left center;*/
+}
+
+#login_password
+{
+	padding-left: 3px;
+	height: 20px;
+	width: 175px;
+	/*padding-left: 20px;
+	background:#ffffff url('/gfx/key.png') no-repeat left center;*/
+}
+
+#login_submit
+{
+	margin-top:5px;
+	float: right;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	border: 1px solid #464643;
+
+}
+
+#login_submit:hover
+{
+	background: #A0A0A0;
+}
+
